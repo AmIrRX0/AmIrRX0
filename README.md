@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Amirhossein%20Ebrahimian&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20-%20LLM%20and%20Agent%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines= Building+agentic+RAG+pipelines+with+LangChain+and+LangGraph;Fine-tuning+and+shipping+LLMs+as+Telegram+bots;Turning+MovieLens+data+into+smarter+recommendations;National+AI+and+ML+competitor%2C+Asian+Olympiad+finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Build+agentic+RAG+pipelines+with+LangChain+and+LangGraph;Fine-tuning+and+shipping+LLMs+as+Telegram+bots;Turning+MovieLens+data+into+smarter+recommendations;National+AI+and+ML+competitor%2C+Asian+Olympiad+finalist" alt="Typing SVG" />
 </a>
 
 <br/>
